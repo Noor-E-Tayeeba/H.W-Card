@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: 250px;
+    width: 600px;
+    font-family: 'Times New Roman';
+    background-color: rgba(129, 209, 165, 0.562);
+    margin: 30px 25px;
+    position: relative;
+    padding: 20px;
+    box-shadow: 3px 3px 8px rgba(64, 86, 95, 0.616);
+}
+
+#heading{
+    color: rgb(63, 80, 156);
+}
+
+
+#description{
+    text-align: justify;
+    padding: 18px 0px;
+}
+
+#price{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 15px 0px;
+}
+
+#enroll-btn{
+    background-color: rgb(173, 138, 206);
+    border: 1px solid black;
+    border-style: none;
+    padding: 2px 2px;
+    box-shadow: 2px 2px 5px rgb(141, 136, 136);
+}
+
+
+#best-sell{
+    background-color: rgb(235, 31, 31);
+    padding: 8px 8px;
+    color: aliceblue;
+    border-radius: 4px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    box-shadow: 2px 2px 4px rgba(124, 66, 66, 0.582);
+}
